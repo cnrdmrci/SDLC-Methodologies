@@ -1,2 +1,6 @@
-# SDLC-Methodologies
-Software Development Life Cycle (SDLC) Methodologies
+# Yazılım Geliştirme Yaşam Döngüsü (SDLC)
+
+- [Waterfall](#waterfall)
+- [Lean](#lean)
+- [Agile](#agile)
+
