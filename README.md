@@ -4,6 +4,7 @@
 - [Lean](#lean)
 - [Agile](#agile)
   - [Agile Nedir?](#agile-nedir)
+  - [Agile Manifesto](#agile-manifesto)
 
 # <a name="agile">Agile</a>
 
@@ -16,3 +17,9 @@ Agile kısaca;
 - başarıyı hedefleyen
 
 bir düşüncedir.
+
+## <a name="agile-manifesto">Agile Manifesto</a>
+- Süreçler ve araçlardan ziyade __bireyler ve etkileşimlere__
+- Kapsamlı dökümantasyondan ziyade __çalışan yazılıma__
+- Sözleşme pazarlıklarından ziyade __müşteri ile işbirliğine__
+- Bir plana bağlı kalmaktan ziyade __değişime karşılık vermeye__
