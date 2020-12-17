@@ -13,6 +13,7 @@
   - [Agile Nedir?](#agile-nedir)
   - [Agile Manifesto](#agile-manifesto)
   - [Agile Prensipleri](#agile-prensipleri)
+- [Agile vs Lean](#agile-vs-lean)
 
 # <a name="lean">Lean</a>
 
@@ -93,3 +94,10 @@ bir düşüncedir.
 - Sadelik olmazsa olmazlardandır.
 - En iyi geliştirmeleri kendi arasında uyum sağlayan takımlar ortaya çıkarır.
 - Takım, düzenli aralıklarla nasıl daha verimli olabileceğinin üzerinde düşünür ve gelişmeyi hedefler.
+
+# <a name="agile-vs-lean">Agile vs Lean</a>
+
+Agile, şirketlerin daha iyi ürünler geliştirmelerine yardımcı olmaktadır. Sürece daha az odaklanır ve ürünü geliştirmeyi hedefler. Lean ise yalın ve daha iyi ürün kalitesiyle süreci iyileştirmeyi hedefler.
+
+Lean, ürünü teslim eden süreci iyileştirmeye çalışırken, Agile, ürünün kendisini geliştirmeye çalışır. Her ikisi de önemli perspektiflerdir.
+
