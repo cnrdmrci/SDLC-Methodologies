@@ -4,6 +4,11 @@
 - [Lean](#lean)
   - [Lean Nedir?](#lean-nedir)
   - [Lean Prensipleri](#lean-prensipleri)
+  - [Muda Mura Muri](#muda-mura-muri)
+  	- [Muda Nedir?](#muda-nedir)
+	- [Mura Nedir?](#mura-nedir)
+	- [Muri Nedir?](#muri-nedir)
+  - [Muda 7 İsraf](#muda-israf)
 - [Agile](#agile)
   - [Agile Nedir?](#agile-nedir)
   - [Agile Manifesto](#agile-manifesto)
@@ -34,6 +39,28 @@ Lean, daha az kaynak ile daha çok değer üreterek, tüm organizasyon için isr
 - Mükemmellik
 
 	İlk dört adımın gerçekleştirilmesiyle israf önlenir. Ancak mükemmelliğin peşinde koşmanın beşinci adımı, bunların en önemlisidir. Yalın düşünceyi ve sürekli süreç iyileştirmeyi organizasyon kültürünün bir parçası haline getirir. Küçük adımlarla devamlı gelişerek mükemmelliğe yaklaşmayı hedeflemektedir.(Kaizen)
+
+## <a name="muda-mura-muri">Muda Mura Muri</a>
+
+### <a name="muda-nedir">Muda nedir?</a>
+Muda kelimesinin anlamı yararsızlıktır. Müşteri için katma değer yaratmayan ve kaynakları boşa harcayan işlemlerdir. 7 adet israf kategorisi altında toplanmıştır. Amacı israfı önlemektir.
+
+### <a name="mura-nedir">Mura nedir?</a>
+Mura kelimesinin anlamı düzensizliktir. Bir süreçte düzensiz olarak alçalıp azalan üretim yapılmasıdır. Amacı düzenli ve stabil üretimi sağlamaktır.
+
+### <a name="muri-nedir">Muri nedir?</a>
+Muri kelimesinin anlamı aşırı yüktür. Bir üretim elemanına aşırı yük bindirmektir. Amacı aşırı yükü önleyerek, yükü sağlıklı bir şekilde dağıtmaktır.
+
+## <a name="muda-israf">Muda 7 israf</a>
+Yararsız ve kaynakları boşa harcayan 7 israf kategorisi aşağıdakilerden oluşmaktadır;
+- Hatalı Üretim
+- Aşırı Üretim
+- Fazla Stok
+- Bekleme
+- Yararsız işlemler ile aşırı işleme
+- Nakliye ile ürünün gereksiz taşınması
+- Makine yada insanların aşırı hareketi
+
 
 # <a name="agile">Agile</a>
 
