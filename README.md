@@ -2,10 +2,17 @@
 
 - [Waterfall](#waterfall)
 - [Lean](#lean)
+  - [Lean Nedir?](#lean-nedir)
 - [Agile](#agile)
   - [Agile Nedir?](#agile-nedir)
   - [Agile Manifesto](#agile-manifesto)
   - [Agile Prensipleri](#agile-prensipleri)
+
+# <a name="lean">Lean</a>
+
+##  <a name="lean-nedir">Lean Nedir?</a>
+Lean, daha az kaynak ile daha çok değer üreterek, tüm organizasyon için israfı azaltmaya, müşteri için değer üretmeye ve sürekli gelişmeye odaklanan bir yaklaşım biçimidir.
+
 
 # <a name="agile">Agile</a>
 
