@@ -5,6 +5,7 @@
 - [Agile](#agile)
   - [Agile Nedir?](#agile-nedir)
   - [Agile Manifesto](#agile-manifesto)
+  - [Agile Prensipleri](#agile-prensipleri)
 
 # <a name="agile">Agile</a>
 
@@ -23,3 +24,17 @@ bir düşüncedir.
 - Kapsamlı dökümantasyondan ziyade __çalışan yazılıma__
 - Sözleşme pazarlıklarından ziyade __müşteri ile işbirliğine__
 - Bir plana bağlı kalmaktan ziyade __değişime karşılık vermeye__
+
+## <a name="agile-prensipleri">Agile Prensipleri</a>
+- Yazılımın hızlı ve devamlı teslimi ile müşteri memnuniyeti hedeflenir.
+- Değişen gereksinimler yazılım sürecinin son aşamalarında bile kabul edilmelidir.
+- Geliştirmeler parçalara bölünerek düzenli aralıklarla müşteriye sunulmalıdır.
+- Konuyla ilgili kişiler hergün birlikte çalışmalıdır.
+- Bireylere güven duyulmalı ve motive edilmelidir.
+- Bilgi alışverişinin en önemli yöntemi yüzyüze iletişimdir.
+- Çalışan yazılım en önemli hedeftir.
+- Sabit tempo sürekli devam ettirilmelidir.
+- Motivasyon çevikliliği artırır.
+- Sadelik olmazsa olmazlardandır.
+- En iyi geliştirmeleri kendi arasında uyum sağlayan takımlar ortaya çıkarır.
+- Takım, düzenli aralıklarla nasıl daha verimli olabileceğinin üzerinde düşünür ve gelişmeyi hedefler.
