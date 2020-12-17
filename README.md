@@ -3,6 +3,7 @@
 - [Waterfall](#waterfall)
 - [Lean](#lean)
   - [Lean Nedir?](#lean-nedir)
+  - [Lean Prensipleri](#lean-prensipleri)
 - [Agile](#agile)
   - [Agile Nedir?](#agile-nedir)
   - [Agile Manifesto](#agile-manifesto)
@@ -13,6 +14,26 @@
 ##  <a name="lean-nedir">Lean Nedir?</a>
 Lean, daha az kaynak ile daha çok değer üreterek, tüm organizasyon için israfı azaltmaya, müşteri için değer üretmeye ve sürekli gelişmeye odaklanan bir yaklaşım biçimidir.
 
+## <a name="lean-prensipleri">Lean Prensipleri</a>
+- Değer;
+
+	Müşterinin ödemek istediği şeydir. Müşterinin gerçek veya gizli ihtiyaçlarını keşfetmek çok önemlidir. Bazen müşteriler ne istediklerini bilemeyebilir veya bunu ifade edemeyebilir. Müşterilerin neleri değerli bulduğu keşfedilmelidir.
+
+- Değer Akışı;
+
+	Sistem içindeki tüm faaliyetler Değer Yaratan, Değer Yaratmayan ve Zorunlu İsraf’lar olarak üçe ayrılır. Gereksiz süreçleri veya adımları azaltarak ve ortadan kaldırarak, müşterilerin tam olarak istediklerini elde etmelerini sağlamak amaçlanmalıdır.
+
+- Sürekli Akış
+
+	İsrafı değer akışından çıkardıktan sonra kalan adımların akışının kesinti veya gecikme olmaksızın sorunsuz çalışmasını sağlamaktır.
+
+- Çekme
+
+	Değerin akışını gerçekleştirmek için süreç hızını kontrol etmek önemlidir. Süreç hızının kontrolü ise sistemdeki tüm israflardan arınarak gerçekleşir. Her adım bir önceki adımın müşterisidir ve ondan ürün talep eder. Çekme tabanlı bir sistem, ürünlerin ihtiyaç duyuldukları anda ve sadece ihtiyaç duyulan miktarlarda oluşturulduğu tam zamanında teslimat ve üretimi sağlamaktır.
+
+- Mükemmellik
+
+	İlk dört adımın gerçekleştirilmesiyle israf önlenir. Ancak mükemmelliğin peşinde koşmanın beşinci adımı, bunların en önemlisidir. Yalın düşünceyi ve sürekli süreç iyileştirmeyi organizasyon kültürünün bir parçası haline getirir. Küçük adımlarla devamlı gelişerek mükemmelliğe yaklaşmayı hedeflemektedir.(Kaizen)
 
 # <a name="agile">Agile</a>
 
