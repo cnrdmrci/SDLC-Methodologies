@@ -13,6 +13,12 @@
   - [Agile Nedir?](#agile-nedir)
   - [Agile Manifesto](#agile-manifesto)
   - [Agile Prensipleri](#agile-prensipleri)
+  - [Scrum](#scrum)
+  	- [Scrum Nedir?](#scrum-nedir)
+	- [Scrum Prensipleri](#scrum-prensipleri)
+	- [Scrum Değerleri](#scrum-degerleri)
+	- [Scrum Takımı](#scrum-takimi)
+	- [Scrum Etkinlikleri](#scrum-etkinlikleri)
 - [Agile vs Lean](#agile-vs-lean)
 
 # <a name="lean">Lean</a>
@@ -94,6 +100,67 @@ bir düşüncedir.
 - Sadelik olmazsa olmazlardandır.
 - En iyi geliştirmeleri kendi arasında uyum sağlayan takımlar ortaya çıkarır.
 - Takım, düzenli aralıklarla nasıl daha verimli olabileceğinin üzerinde düşünür ve gelişmeyi hedefler.
+
+## <a name="scrum">Scrum</a>
+
+### <a name="scrum-nedir">Scrum Nedir?</a>
+Agile proje yönetim metodolojilerinden biridir. Organizasyonlar, ekipler ve insanlar için karmaşık problemlerin süreçlerini yönetmek için kullanılmaktadır. İhtiyaca yönelik esnek yapısı sayesinde, müşteri ihtiyaçlarına ve değişime cevap vermeyi sağlamaktadır. Bir bütünü parçalayarak, parçaları tekrarlı bir biçimde tamamlamayı hedeflemektedir. Her parça tekrarında, eksiklikler belirlenerek takım içi iletişim ve etkileşimi artırmaktadır. Ayrıca eksikliklerin belirlenmesiyle süreli gelişim sağlanmaktadır. Scrumın temel tasarımını veya fikirlerini değiştirmek, öğeleri dışarıda bırakmak veya Scrum kurallarına uymamak, Scrumın faydalarını sınırlandırarak yararsız hale de getirebilmektedir ve sorunlara neden olabilmektedir.
+	
+### <a name="scrum-prensipleri">Scrum Prensipleri</a>
+- Şeffaflık (Transparency)
+	
+	Projenin ilerleyişi, yeni gelişmeleri ve karşılaşılan sorunlar herkes tarafından görülebilir olmalıdır.
+
+- Denetleme(Inspection)
+	
+	Projenin ilerleyiş durumu düzenli olarak kontrol edilmelidir.
+
+- Uyarlama(Adaptation)
+	
+	Proje ve ekip üyeleri değişimlere uyum sağlayabilmelidir.
+	
+### <a name="scrum-degerleri">Scrum Değerleri</a>
+- Taahhüt (Commitment)
+- Cesaret (Courage)
+- Odaklanma (Focus)
+- Açıklık (Openness)
+- Saygı (Respect)
+
+### <a name="scrum-takimi">Scrum Takımı</a>
+Scrum takımı; bir ürün sahibi, bir scrum master ve geliştiricilerden oluşmaktadır. Bir scrum takımında alt takım bulunmamaktadır. Her seferinde tek bir hedefe odaklanan uyumlu bir takımdır. Scrum takımı, çevik olabilecek kadar küçük ve önemli bir işi tamamlayabilecek kadar büyük olmalıdır. Genel olarak 10 veya daha az kişiden oluşmalıdır ve bu küçük takımlar daha iyi iletişim sağlayabilmektedir.
+	
+- Ürün Sahibi (Product Owner) 
+	
+	Müşteri ve geliştirme takımı arasındaki iletişimi sağlar. Ürün İş Listesini(Product Backlog) oluşturur. Ürün İstek Listesinin şeffaf, görünür ve anlaşılır olmasını sağlar.
+
+- Scrum Master
+	
+	Scrum kurallarını, teorilerini ve pratiklerini iyi bilir ve takımın bu kurallarını uygulaması sağlar. Takımın üretken olmasını sağlar ve verimli çalışmayı engelleyen durumları ortadan kaldırarak bir zaman çerçevesi sağlar.
+
+- Geliştirme Takımı (Development Team)
+	
+	Bir Sprint’e alınan bütün işleri tamamlayacak özelliklere sahip kişilerdir. Sprint backlogu oluştururlar. Kendi kendini organize ederler ve çapraz işlevlidirler. 
+	
+### <a name="scrum-etkinlikleri">Scrum Etkinlikleri</a>
+
+#### Sprint Nedir?
+Sprintler, fikirlerin değere dönüştürüldüğü scrumın kalbidir. Belirli bir işin tamamlandığı ve incelemeye hazır hale getirildiği zaman sınırlamalı(bir ay veya daha kısa süreli) bir olaylardır. Yeni bir sprint, önceki sprintin bitiminden hemen sonra başlar.	Sprint hedefi geçerliliğini yitirirse Sprint iptal edilebilir. Sadece ürün sahibi sprinti iptal etme yetkisine sahiptir.
+
+- Sprint Planlama (Sprint Planning)
+	
+	Sprint planlama sprinti başlatır. Ürün iş listesindeki(Product Backlog) belirlenen gereksinimler, tüm scrum takımının ortak çalışmasıyla küçük görevlere ayrılır. Takımdaki her bir kişinin bu görevleri üzerine alması ile görev dağılımı sağlanır. Bu toplantıya product owner, development team ve scrum master katılır. Bir ay veya daha kısa süreli sprintler oluşturulur. Sprint hedefi, sprint planlama sona ermeden önce kesinleştirilmelidir.
+
+- Günlük Scrum (Daily Scrum)
+	
+	Scrum Takımının, iletişimi artırmak, engelleri tanımlamak için gerçekleştirdiği 15 dakikalık bir etkinliktir. Karmaşıklığı azaltmak için, her iş günü aynı saat ve aynı yerde yapılır. Yaşanan sorunlar konuşulur ve scrum master veya geliştiricilerin yardımıyla sorunlar giderilir. Takım üyelerinden birinin geç kalması veya gelmemesi toplantıyı etkilemez.
+
+- Sprint İncelemesi (Sprint Review)
+	
+	Amacı sprintin sonucunu incelemek, değerlendirmek ve gelecekteki uyarlamaları belirlemektir. Yazılımın ürün sahibinin gereksinimlerine uygun olarak geliştirildiği kontrol edilir.
+
+- Sprint Retrospective (Retro)
+	
+	Amacı kaliteyi artırmanın yollarını aramaktır. Sprint sırasında nelerin iyi gittiğini, hangi problemlerle karşılaşıldığını, problemler için neler yapıldığı ve çözülemeyen sorunlar üzerine tartışılır. Kaliteyi artırmak için en yararlı değişiklikler belirlenir. İyileştirmeler mümkün olan en kısa sürede ele alınır. Bir sonraki sprint için spring backloga bile eklenebilir. Sprint retrospektifi, sprinti sonlandırır. 
 
 # <a name="agile-vs-lean">Agile vs Lean</a>
 
